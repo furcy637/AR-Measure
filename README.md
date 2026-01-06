@@ -1,4 +1,4 @@
-# AR-MEASURE: Artırılmış Gerçeklik ile Mesafe ve Alan Ölçüm Uygulaması
+# AR-MEASURE: Artırılmış Gerçeklik ile Mesafe ve Alan Ölçüm Uygulaması 
 
 ## Proje Bilgileri
 - **Ad Soyad:** Furkan Dokuzoğlu
